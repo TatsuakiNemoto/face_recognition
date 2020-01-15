@@ -1,0 +1,27 @@
+epoch 5
+evaluate loss: 0.6599
+evaluate acc: 78.0%
+
+epoch 10
+evaluate loss: 0.6976
+evaluate acc: 79.0%
+
+epoch 15
+evaluate loss: 0.7522
+evaluate acc: 78.6%
+
+epoch 20
+evaluate loss: 0.8067
+evaluate acc: 78.8%
+
+epoch 25
+evaluate loss: 0.8722
+evaluate acc: 76.8%
+
+epoch 30
+evaluate loss: 0.8995
+evaluate acc: 78.7%
+
+epoch 40
+evaluate loss: 1.0544
+evaluate acc: 79.1%
